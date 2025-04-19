@@ -1,4 +1,4 @@
-module github.com/StirlingMarketingGroup/go2ts/assets/go
+module github.com/1090MHz/go2ts/assets/go
 
 go 1.16
 
